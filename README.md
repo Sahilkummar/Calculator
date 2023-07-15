@@ -36,5 +36,3 @@ This is a simple scientific calculator built using HTML, CSS, and Vue.js. It pro
 
 Contributions are welcome! If you find any issues or want to add new features, feel free to open an issue or submit a pull request.
 
-
-Feel free to modify and customize this README file according to your project's specific requirements.
