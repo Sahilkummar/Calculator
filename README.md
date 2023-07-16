@@ -1,5 +1,3 @@
-Here's a Link for the Calculator project: https://sahilkummar.github.io/Calculator/
-
 # Calculator
 
 This is a simple scientific calculator built using HTML, CSS, and Vue.js. It provides basic and advanced mathematical operations.
